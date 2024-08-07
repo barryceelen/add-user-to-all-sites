@@ -38,7 +38,7 @@ class Add_User_To_All_Sites_Command {
 	 *
 	 * ## EXAMPLES
 	 *
-	 *     wp add_user_to_all_sites <user-email> --role=administrator
+	 *     wp add_user_to_all_sites --email=test@example.com --role=administrator
 	 *
 	 * @param array $args The array of arguments.
 	 * @param array $assoc_args The array of assoc args.
